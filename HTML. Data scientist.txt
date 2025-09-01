@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Scientist Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Rekha S</h1>
+            <h2>Data Scientist</h2>
+            <nav>
+                <ul>
+                    <li><a href="#about">Analytical</a></li>
+                    <li><a href="#skills">communication</a></li>
+                    <li><a href="#projects">sentimentanalysics</a></li>
+                    <li><a href="#contact">rekhamsk2006</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section id="about" class="container">
+            <h3>About Me</h3>
+            <p>
+                Passionate Data Scientist with experience in data analysis, machine learning, and visualization. Skilled in turning raw data into actionable insights and building predictive models to solve real-world problems.
+            </p>
+        </section>
+        <section id="skills" class="container">
+            <h3>Skills</h3>
+            <ul class="skills-list">
+                <li>Python</li>
+                <li>R</li>
+                <li>SQL</li>
+                <li>Machine Learning</li>
+                <li>Deep Learning</li>
+                <li>Data Visualization (Matplotlib, Seaborn, Tableau)</li>
+                <li>Big Data (Spark, Hadoop)</li>
+                <li>Statistics</li>
+                <li>HTML & CSS</li>
+            </ul>
+        </section>
+        <section id="projects" class="container">
+            <h3>Projects</h3>
+            <div class="project">
+                <h4>Predictive Analytics for Retail</h4>
+                <p>
+                    Built a machine learning model to forecast sales, helping retailers optimize inventory and improve revenue.
+                </p>
+            </div>
+            <div class="project">
+                <h4>Customer Segmentation</h4>
+                <p>
+                    Used clustering algorithms to segment customers based on purchasing behavior for targeted marketing campaigns.
+                </p>
+            </div>
+            <div class="project">
+                <h4>Visualization Dashboard</h4>
+                <p>
+                    Developed interactive dashboards using Tableau to visualize KPIs and business metrics for stakeholders.
+                </p>
+            </div>
+        </section>
+        <section id="contact" class="container">
+            <h3>Contact</h3>
+            <p>
+                Email: <a href="mailto:rekhamsk2006@gmail.com">rekhamsk2006@gmail.com</a><br>
+                LinkedIn: <a href="https://www.linkedin.com/in/rekha-profile" target="_blank">rekha-profile</a>
+            </p>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            &copy; 2025 Rekha S| Data Scientist Portfolio
+        </div>
+    </footer>
+</body>
+</html>
